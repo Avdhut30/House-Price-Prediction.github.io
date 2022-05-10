@@ -16,6 +16,7 @@ Here we have web scrapped the Data from Kaggle.com website which is one of the l
 ![image](https://user-images.githubusercontent.com/74340245/167713329-7335fd33-ea5c-4bc9-b430-6236e55ec15a.png)
 
 ![image](https://user-images.githubusercontent.com/74340245/167713347-866c4aeb-7fc4-454c-86b2-7a67078399f4.png)
+
 ![image](https://user-images.githubusercontent.com/74340245/167713366-d0a9f205-2795-472e-913f-25374ed80a39.png)
 
 
@@ -23,7 +24,7 @@ Here we have web scrapped the Data from Kaggle.com website which is one of the l
 
 
 
- ![image](https://user-images.githubusercontent.com/74340245/167713088-be09962d-f52c-43cb-9c3d-dd3460cf1ab0.png)
+ 
  
 
 
