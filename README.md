@@ -10,6 +10,7 @@ The accuracy of the prediction is evaluated by checking the root square and root
 # Dataset
 
 Here we have web scrapped the Data from Kaggle.com website which is one of the leading real estate websites operating in INDIA.
+For data set goto the model folder you will get the Mumbai.csv file.
 
 ![image](https://user-images.githubusercontent.com/74340245/167713289-ab6251a1-1a5a-45c5-8efa-440213d0bff0.png)
 
